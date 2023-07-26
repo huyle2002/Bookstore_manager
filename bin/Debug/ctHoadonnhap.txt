@@ -1,0 +1,7 @@
+hdn1#sp1#10
+hdn2#sp2#20
+hdn3#sp3#20
+hdn4#sp2#20
+hdn4#sp3#15
+hdn4#sp4#5
+hdn5#sp2#2

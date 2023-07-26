@@ -1,0 +1,5 @@
+sp2#tre tap noi#tre em#abc#dhhanoi#6#10000#30000
+sp3#tham tu conan tap1#xyz#kobit#kim dong#15#6000#9000
+sp4#nu hoang ai cap#truyen tranh#abc#tuoi tre#5#5000#10000
+sp5#doremon tap1#truyen tranh#fujiko#kim dong#0#3000#6000
+sp6#doremon tap2#truyen tranh#fujiko#kim dong#0#3500#8000

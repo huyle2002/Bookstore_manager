@@ -1,0 +1,7 @@
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\bin\Debug\BTL_QL_CUAHANGSACH.exe.config
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\bin\Debug\BTL_QL_CUAHANGSACH.exe
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\bin\Debug\BTL_QL_CUAHANGSACH.pdb
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\obj\Debug\BTL_QL_CUAHANGSACH.csproj.AssemblyReference.cache
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\obj\Debug\BTL_QL_CUAHANGSACH.csproj.CoreCompileInputs.cache
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\obj\Debug\BTL_QL_CUAHANGSACH.exe
+D:\visual studio\repos\BTL_QL_CUAHANGSACH\obj\Debug\BTL_QL_CUAHANGSACH.pdb
